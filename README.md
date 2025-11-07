@@ -13,7 +13,7 @@ Follow these steps to set up your environment for the AdX game.
 Open your terminal and navigate to where you want to clone the repository
 
 ```bash
-git clone https://github.com/brown-agt/AdX-Stencil-2024.git
+git clone https://github.com/brown-agt/AdX-Stencil-2025.git
 ```
 
 ### Step 2: Create a Virtual Environment (Optional)
