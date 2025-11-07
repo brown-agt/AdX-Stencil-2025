@@ -45,5 +45,5 @@ pip install --upgrade agt-server
 ## Notes about the python code
 
 - Please refer to the [final project handout](https://cs.brown.edu/courses/csci1440/labs/fall-2025/AdX_Game_Final_Project_Spec.pdf) and read through it carefully! It contains a lot of information specific to this implementation of the spectrum auction and making sure your code works for submission.
-- Implement your agent in the `my_ndays_ncmapaign_agent.py` file. The `adx` folder contains all the code for the structures of the game and the simulator.
+- Implement your agent in the `my_agent.py` file. 
 - Please let us know if you want to import any new packages and we will install it on our end after checking it so that the code can import it in the final submission. 
