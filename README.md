@@ -35,6 +35,13 @@ python3 -m venv .venv
 .venv\Scripts\activate
 ```
 
+### Step 3: Install the agt server package
+
+```bash
+pip install --upgrade pip
+pip install --upgrade agt-server
+```
+
 ## Notes about the python code
 
 - Please refer to the [final project handout](https://cs.brown.edu/courses/csci1440/labs/2024/final/AdX_Game_Final_Project_Spec.pdf) and read through it carefully! It contains a lot of information specific to this implementation of the spectrum auction and making sure your code works for submission.
